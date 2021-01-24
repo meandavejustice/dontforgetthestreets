@@ -8,7 +8,7 @@ We currently do outreach:
 * Lower East Side (chinatown to tompkins square park), Wednesdays
 * Bushwick (Myrtle and Broadway to graham avenue), Wednesdays and Saturdays
 
-We also distribute supplies through [PDSE](https://www.talkingdrugs.org/the-benefits-of-peer-delivered-syringe-exchange-programs);
+We also distribute supplies through [PDSE](https://www.talkingdrugs.org/the-benefits-of-peer-delivered-syringe-exchange-programs)
 
 ### Contact
 
