@@ -1,5 +1,7 @@
 # Don't Forget the Streets
 
+![dfts-logo](https://user-images.githubusercontent.com/1844554/180342918-9ac506bf-12a0-4354-a648-495e1eff4612.png)
+
 A NYC based Harm Reduction outreach project
 
 ## Locations
@@ -18,3 +20,9 @@ We are looking to/for:
 - submissions to an upcoming project (info coming soon)
 
 [Send us an email](mailto:dontforgetthestreets@protonmail.com?subject=[GitHub]%20DFTS)
+
+### Donate
+Donate to a project on our [Open Collective](https://opencollective.com/dont-forget-the-streets/)
+
+![67599922757--AD306C01-DB58-4768-BF5E-09429B26C9A1](https://user-images.githubusercontent.com/1844554/180343210-8143fbf9-b82c-4357-bb22-ba9de34b1bb9.jpg)
+
