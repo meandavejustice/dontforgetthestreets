@@ -1,7 +1,5 @@
 # Don't Forget the Streets
 
-![dfts-logo](https://user-images.githubusercontent.com/1844554/180342918-9ac506bf-12a0-4354-a648-495e1eff4612.png)
-
 A NYC based Harm Reduction outreach project
 
 ## Locations
