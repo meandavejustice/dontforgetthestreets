@@ -2,11 +2,21 @@
 
 A NYC based Harm Reduction outreach project
 
+## Quick Links
+
+Join our Discord Server:
+
 [![](https://dcbadge.vercel.app/api/server/3rKwG598Y5)](https://discord.gg/3rKwG598Y5)
+
+Donations accepted at:
 
 <a href="https://opencollective.com/dont-forget-the-streets/donate" target="_blank">
   <img src="https://opencollective.com/dont-forget-the-streets/donate/button@2x.png?color=blue" width=300 />
 </a>
+
+Looking for our webstore?
+
+[![Big Cartel](https://a11ybadges.com/badge?logo=bigcartel)](https://shop.dontforgetthestreets.com/)
 
 ## Locations
 
