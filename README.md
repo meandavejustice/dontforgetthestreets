@@ -1,6 +1,8 @@
 # Don't Forget the Streets
 
-A NYC based Harm Reduction outreach project
+A volunteer-run harm reduction outreach project in New York City. Every week we bring safer use supplies, food, water and hygiene items to people on the street, no strings attached.
+
+**Want to help?** [Volunteer with us](#volunteer--contact) · [Donate](#donate) · [Send supplies](https://www.amazon.com/hz/wishlist/ls/34OWC7DCX0CJJ)
 
 ## Locations
 
@@ -32,7 +34,7 @@ Winter distro supplies:
 - Gloves
 - HotHands hand warmers
 
-Please consider purchasing something off of our [Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/34OWC7DCX0CJJ?ref_=wl_share) 🙏, this helps us stay stocked up for distro
+Please consider purchasing something off of our [Amazon wishlist](https://www.amazon.com/hz/wishlist/ls/34OWC7DCX0CJJ) 🙏, this helps us stay stocked up for distro
 
 We also distribute supplies through [PDSE](https://www.talkingdrugs.org/the-benefits-of-peer-delivered-syringe-exchange-programs)
 
@@ -42,30 +44,29 @@ We also distribute supplies through [PDSE](https://www.talkingdrugs.org/the-bene
 
 ## Volunteer / Contact
 
-Join our Discord Server
+Volunteers make this work. You don't need experience, and we'll show you the ropes.
 
-[![](https://dcbadge.vercel.app/api/server/3rKwG598Y5)](https://discord.gg/3rKwG598Y5)
+**[Join our Discord server](https://discord.gg/3rKwG598Y5)** to say hi, see when the next outreach is, and pick up a shift.
 
-We are looking to/for:
+We're also looking for help to:
 - expand our routes
-- fund raising ideas
-- submissions to an upcoming project (info coming soon)
+- come up with fundraising ideas
 
-[Send us an email](mailto:dontforgetthestreets@protonmail.com?subject=[GitHub]%20DFTS)
+Prefer email? [Send us a message](mailto:dontforgetthestreets@protonmail.com?subject=Volunteering%20with%20DFTS)
 
 ## Donate
-We are always in need of donations!
+We are always in need of donations! Our finances are fully public on [Open Collective](https://opencollective.com/dont-forget-the-streets), so you can see every dollar in and out. Donations buy things like hygiene supplies, socks, alcohol pads for safer injection kits, and sandwich supplies for outreach nights.
 
-<a href="https://opencollective.com/dont-forget-the-streets/donate" target="_blank">
-  <img src="https://opencollective.com/dont-forget-the-streets/donate/button@2x.png?color=blue" width=300 />
+A monthly donation, even $5, helps us plan ahead and keep supplies stocked.
+
+<a href="https://opencollective.com/dont-forget-the-streets/donate" target="_blank" rel="noopener">
+  <img src="https://opencollective.com/dont-forget-the-streets/donate/button@2x.png?color=blue" width=300 alt="Donate on Open Collective" />
 </a>
 
 ## Merchandise
 
-You can support us by buying merchandise, take a look at our shop:
-
-[![Big Cartel](https://a11ybadges.com/badge?logo=bigcartel)](https://shop.dontforgetthestreets.com/)
+Every purchase supports our outreach. Take a look at [our shop](https://shop.dontforgetthestreets.com/).
 
 <br>
 
-![67599922757--AD306C01-DB58-4768-BF5E-09429B26C9A1](https://user-images.githubusercontent.com/1844554/180343210-8143fbf9-b82c-4357-bb22-ba9de34b1bb9.jpg)
+![Don't Forget the Streets outreach](https://user-images.githubusercontent.com/1844554/180343210-8143fbf9-b82c-4357-bb22-ba9de34b1bb9.jpg)
