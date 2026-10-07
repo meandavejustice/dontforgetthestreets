@@ -1,4 +1,12 @@
 theme: jekyll-theme-minimal
-description: a NYC based Harm Reduction outreach project
+title: Don't Forget the Streets
+description: A volunteer-run harm reduction outreach project in New York City
+url: "https://dontforgetthestreets.com"
+lang: en-US
 logo: /assets/dontforgetthestreets.png
 favicon: /assets/favicon.ico
+social:
+  name: Don't Forget the Streets
+  links:
+    - https://www.instagram.com/dontforgetthestreets
+    - https://opencollective.com/dont-forget-the-streets
