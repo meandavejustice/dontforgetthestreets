@@ -4,6 +4,8 @@ A volunteer-run harm reduction outreach project in New York City. Every week we 
 
 **Want to help?** [Volunteer with us](#volunteer--contact) · [Donate](#donate) · [Send supplies](https://www.amazon.com/hz/wishlist/ls/34OWC7DCX0CJJ)
 
+**Looking for services?** [harmreductionnyc.com](https://harmreductionnyc.com) is our free directory of harm reduction resources across all five boroughs: syringe services, naloxone, drug checking, treatment, shelter, food, legal help and more, searchable by borough and need.
+
 ## Locations
 
 We currently do outreach:
